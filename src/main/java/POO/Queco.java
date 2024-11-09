@@ -16,7 +16,7 @@ public class Queco extends Animal {
     
     @Override
     public void Sonido(){
-        System.out.println("Tak Tak");
+        System.out.println("El Queco Tak Tak");
     }
     
 }
